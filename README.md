@@ -28,8 +28,7 @@
   ###### Netflix
   ###### X
   ###### Ebay
-  ###### Eclipse
-
+  
 ### C#
 
 ### Go
