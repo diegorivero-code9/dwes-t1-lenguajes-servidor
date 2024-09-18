@@ -16,7 +16,7 @@ Usos comunes
 
 Características
 
-Ejemplos de uso
+Ejemplos de uso (Web o servicios que utilicen ese lenguaje de programacion en el back-end)
 
 ### C#
 
