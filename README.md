@@ -34,14 +34,14 @@
   
 #### Ventajas e inconvenientes
  ##### Ventajas
- ##### Multiplataforma: Funciona en distintos sistemas operativos.
- ##### Es un lenguaje completo y robusto.
- ##### Seguro y capaz de ejecutarse en distintos entornos.
- ##### Java combina la interpretación y compilación, lo que mejora la eficiencia en su ejecución.
+ ###### Multiplataforma: Funciona en distintos sistemas operativos.
+ ###### Es un lenguaje completo y robusto.
+ ###### Seguro y capaz de ejecutarse en distintos entornos.
+ ###### Java combina la interpretación y compilación, lo que mejora la eficiencia en su ejecución.
  ##### Desventajas
- ##### Es considerado difícil como primer lenguaje de aprendizaje.
- ##### En ciertas situaciones, su rendimiento no es óptimo.
- ##### Su evolución ha sido más lenta en comparación con otros lenguajes más modernos.
+ ###### Es considerado difícil como primer lenguaje de aprendizaje.
+ ###### En ciertas situaciones, su rendimiento no es óptimo.
+ ###### Su evolución ha sido más lenta en comparación con otros lenguajes más modernos.
  
 #### Usos comunes
   ###### Java es un lenguaje de programación universal muy utilizado para crear diversos tipos de aplicaciones informáticas. Se suele utilizar para desarrollar aplicaciones de nivel empresarial, como sistemas de    gestión de relaciones con los clientes, sistemas de planificación de recursos empresariales y sistemas de gestión de la cadena de suministro. También se utiliza para desarrollar aplicaciones móviles android,      aplicaciones web, servidores web y servidores de aplicaciones, juegos, aplicaciones científicas, aplicaciones financieras y muchas más. 
