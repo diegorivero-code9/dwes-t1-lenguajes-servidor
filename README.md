@@ -45,6 +45,7 @@
  
 #### Usos comunes
   ###### Java es un lenguaje de programación universal muy utilizado para crear diversos tipos de aplicaciones informáticas. Se suele utilizar para desarrollar aplicaciones de nivel empresarial, como sistemas de    gestión de relaciones con los clientes, sistemas de planificación de recursos empresariales y sistemas de gestión de la cadena de suministro. También se utiliza para desarrollar aplicaciones móviles android,      aplicaciones web, servidores web y servidores de aplicaciones, juegos, aplicaciones científicas, aplicaciones financieras y muchas más. 
+  
 #### Ejemplos de uso (Web o servicios que utilicen ese lenguaje de programacion en el back-end)
   ###### LinkedIn
   ###### Netflix
