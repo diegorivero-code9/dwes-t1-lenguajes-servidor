@@ -12,6 +12,12 @@
 
 #### Descripción
   ###### Java es un lenguaje de programación y una plataforma informática que Sun Microsystems lanzó por primera vez en 1995. Es un lenguaje basado en clases y orientado a objetos que está diseñado para ser portátil, lo que significa que el código Java puede ejecutarse en una amplia variedad de hardware y sistemas operativos. Java es ampliamente utilizado para el desarrollo de aplicaciones de nivel empresarial, aplicaciones móviles, videojuegos y otros tipos de software. Es conocido por su filosofía de "escribir una vez, ejecutar en cualquier lugar", ya que el código Java puede compilarse para ejecutarse en cualquier plataforma que admita una máquina virtual Java (JVM).
+  #### Popularización y nivel de adopción
+    ###### Adopción por grandes empresas: Java fue adoptado por grandes empresas del sector informático como son IBM u Oracle.
+    ###### Independencia de plataforma: Su independencia en cuanto a plataforma gracias a la Máquina Virtual de Java (JVM) que permite ejecutar Java en cualquier sistema operativo, facilitando su uso.
+    ######Amplio soporte comunitario: UNa sólida comunidad de desarrolladores contribuye con recursos y soporte.
+    ###### Java tuvo un rápido crecimiento a finales de los años 90, alcanzando una popularidad máxima en torno al 2015, con más del 70% de adopción. A partir de esa fecha, el nivel de adopción ha disminuido     
+    gradualmente, aunque Java sigue siendo un lenguaje ampliamente utilizado.
 #### Usos comunes
   ###### Java es un lenguaje de programación universal muy utilizado para crear diversos tipos de aplicaciones informáticas. Se suele utilizar para desarrollar aplicaciones de nivel empresarial, como sistemas de    gestión de relaciones con los clientes, sistemas de planificación de recursos empresariales y sistemas de gestión de la cadena de suministro. También se utiliza para desarrollar aplicaciones móviles android,      aplicaciones web, servidores web y servidores de aplicaciones, juegos, aplicaciones científicas, aplicaciones financieras y muchas más.
 #### Características
